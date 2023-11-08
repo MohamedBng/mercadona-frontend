@@ -1,0 +1,26 @@
+.banner {
+    background-image: url('banner.jpg'); /* Si vous utilisez une image */
+    /* background-color: #votre_couleur; */ /* Si vous préférez une couleur solide */
+    height: 200px; /* Hauteur de votre choix */
+    display: flex;
+    align-items: flex-end; /* Pour aligner le texte en bas */
+    justify-content: flex-start; /* Pour aligner le texte à gauche */
+    padding-left: 20px; /* Espace à gauche */
+    padding-bottom: 10px; /* Espace en bas */
+    width: 100%;
+}
+
+.banner-text {
+    font-size: 3em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #fff; /* Choisissez une couleur qui contraste bien avec l'arrière-plan */
+}
+
+.logo-header {
+    width: 300px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 1%;
+  }
