@@ -10,7 +10,7 @@ const ProductCard = ({ product }) => {
             <Card className="product-card">
                 <Card.Img
                     variant="top"
-                    src={`images/${product.image.split('/').pop()}`}
+                    src={product.image_url}
                     alt={product.label}
                     className="product-img"
                 />
