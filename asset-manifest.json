@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mercadona-frontend/static/css/main.29414add.css",
-    "main.js": "/mercadona-frontend/static/js/main.398c8afd.js",
+    "main.js": "/mercadona-frontend/static/js/main.7a5d28de.js",
     "static/js/787.cda612ba.chunk.js": "/mercadona-frontend/static/js/787.cda612ba.chunk.js",
     "static/media/banner.jpg": "/mercadona-frontend/static/media/banner.abc5fb2ce1201ba71898.jpg",
     "index.html": "/mercadona-frontend/index.html",
     "main.29414add.css.map": "/mercadona-frontend/static/css/main.29414add.css.map",
-    "main.398c8afd.js.map": "/mercadona-frontend/static/js/main.398c8afd.js.map",
+    "main.7a5d28de.js.map": "/mercadona-frontend/static/js/main.7a5d28de.js.map",
     "787.cda612ba.chunk.js.map": "/mercadona-frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29414add.css",
-    "static/js/main.398c8afd.js"
+    "static/js/main.7a5d28de.js"
   ]
 }
