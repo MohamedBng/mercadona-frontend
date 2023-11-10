@@ -18,7 +18,7 @@ const Catalogue = () => {
   useEffect(() => {
     const fetchCategories = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/api/categories/');
+        const response = await axios.get('https://mercadonastudi-c95dd55a3900.herokuapp.com/api/categories/');
         setCategories(response.data.results);
       } catch (error) {
         console.error(error);
@@ -31,7 +31,7 @@ const Catalogue = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        let apiUrl = 'http://localhost:8000/api/products/';
+        let apiUrl = 'https://mercadonastudi-c95dd55a3900.herokuapp.com/api/products/';
         const params = {};
     
         if (selectedCategory !== '') {
